@@ -48,7 +48,7 @@ export const projects: Project[] = [
       "PostgreSQL",
     ],
     category: "web",
-    githubUrl: "https://github.com/jeffreyc/securechat",
+    githubUrl: "#",
     featured: true,
   },
   {
@@ -61,7 +61,7 @@ export const projects: Project[] = [
     category: "web",
     githubUrl: "#",
     liveUrl:
-      "https://play.google.com/store/apps/details?id=com.jeffreyc.ecotracker",
+      "#",
     featured: false,
   },
   {
@@ -75,8 +75,8 @@ export const projects: Project[] = [
       "/images/resume.png",
     technologies: ["Three.js", "D3.js", "WebGL", "Python", "FastAPI"],
     category: "ai",
-    githubUrl: "https://github.com/jeffreyc/nn-visualizer",
-    liveUrl: "https://nn-visualizer.netlify.app",
+    githubUrl: "#",
+    liveUrl: "#",
     featured: false,
   },
   {
@@ -90,7 +90,7 @@ export const projects: Project[] = [
       "https://images.pexels.com/photos/4062275/pexels-photo-4062275.jpeg?auto=compress&cs=tinysrgb&w=800",
     technologies: ["Vue.js", "Arduino", "Raspberry Pi", "MQTT", "InfluxDB"],
     category: "web",
-    githubUrl: "https://github.com/jeffreyc/smart-home",
+    githubUrl: "#
     featured: false,
   },
   {
@@ -104,7 +104,7 @@ export const projects: Project[] = [
       "https://images.pexels.com/photos/6802049/pexels-photo-6802049.jpeg?auto=compress&cs=tinysrgb&w=800",
     technologies: ["Solidity", "Web3.js", "React", "Ethereum", "IPFS"],
     category: "cybersecurity",
-    githubUrl: "https://github.com/jeffreyc/blockchain-voting",
+    githubUrl: "#",
     featured: true,
   },
 ];
