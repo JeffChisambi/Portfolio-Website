@@ -76,7 +76,7 @@ export const projects: Project[] = [
       "/images/resume.png",
     technologies: ["Three.js", "D3.js", "WebGL", "Python", "FastAPI"],
     category: "ai",
-    githubUrl: "#
+    githubUrl: "#",
     featured: false,
   },
   {
