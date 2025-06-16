@@ -66,7 +66,7 @@ export const projects: Project[] = [
   },
 
   {
-    id: "5",
+    id: "4",
     title: "AI Resume Builder",
     description:
       "Free AI powered Resume Builder.",
@@ -80,7 +80,7 @@ export const projects: Project[] = [
     featured: false,
   },
   {
-    id: "6",
+    id: "5",
     title: "Blockchain Voting System",
     description:
       "Secure, transparent voting platform using blockchain technology for election integrity.",
