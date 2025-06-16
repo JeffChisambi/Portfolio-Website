@@ -72,7 +72,7 @@ export const projects: Project[] = [
     longDescription:
       "An Advanced Ai powered resume builder",
     image:
-      "/images/resume",
+      "/images/resume.png",
     technologies: ["Three.js", "D3.js", "WebGL", "Python", "FastAPI"],
     category: "ai",
     githubUrl: "https://github.com/jeffreyc/nn-visualizer",
