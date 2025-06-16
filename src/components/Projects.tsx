@@ -154,7 +154,7 @@ const Projects: React.FC = () => {
                   </div>
 
                   {/* Links */}
-{/*                   <div className="flex space-x-4">
+                  <div className="flex space-x-4">
                     {project.githubUrl && (
                       <a
                         href={project.githubUrl}
@@ -177,7 +177,7 @@ const Projects: React.FC = () => {
                         <span>Live Demo</span>
                       </a>
                     )}
-                  </div> */}
+                  </div>
                 </div>
               </div>
             ))}
