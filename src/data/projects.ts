@@ -29,8 +29,8 @@ export const projects: Project[] = [
       "MongoDB",
     ],
     category: "ai",
-    githubUrl: "https://github.com/jeffreyc/ai-task-manager",
-    liveUrl: "https://ai-taskmanager.vercel.app",
+    githubUrl: "#",
+    liveUrl: "#",
     featured: true,
   },
   {
