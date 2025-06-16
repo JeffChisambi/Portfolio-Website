@@ -66,13 +66,13 @@ export const projects: Project[] = [
   },
   {
     id: "4",
-    title: "Neural Network Visualizer",
+    title: "AI Resume Builder",
     description:
-      "Interactive web app for visualizing and understanding neural network architectures.",
+      "Free AI powered Resume Builder.",
     longDescription:
-      "An educational tool that allows users to build, train, and visualize neural networks in real-time, making machine learning concepts more accessible through interactive 3D visualizations.",
+      "An Advanced Ai powered resume builder",
     image:
-      "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "/images/resume",
     technologies: ["Three.js", "D3.js", "WebGL", "Python", "FastAPI"],
     category: "ai",
     githubUrl: "https://github.com/jeffreyc/nn-visualizer",
