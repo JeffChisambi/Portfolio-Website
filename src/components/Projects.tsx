@@ -186,7 +186,7 @@ const Projects: React.FC = () => {
           {/* View All Projects Button */}
           <div className="text-center">
             <a
-              href="https://github.com/jeffreyc"
+              href="https://github.com/jeffchisambi"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-3 bg-gradient-to-r from-primary-500 to-accent-500 hover:from-primary-600 hover:to-accent-600 text-white font-semibold py-4 px-8 rounded-2xl shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
