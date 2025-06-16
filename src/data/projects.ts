@@ -76,7 +76,7 @@ export const projects: Project[] = [
     technologies: ["Three.js", "D3.js", "WebGL", "Python", "FastAPI"],
     category: "ai",
     githubUrl: "#",
-    liveUrl: "#",
+    liveUrl: "https://portfolio-website-git-main-jeffchisambis-projects.vercel.app/",
     featured: false,
   },
   {
