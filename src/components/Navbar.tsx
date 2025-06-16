@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
     { icon: Github, href: "https://github.com/jeffchisambi", label: "GitHub" },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/in/jeffreychisambi",
+      href: "https://linkedin.com/in/Jeffrey Chisambi",
       label: "LinkedIn",
     },
     {
