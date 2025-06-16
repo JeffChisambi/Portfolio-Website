@@ -64,8 +64,9 @@ export const projects: Project[] = [
       "#",
     featured: false,
   },
+
   {
-    id: "4",
+    id: "5",
     title: "AI Resume Builder",
     description:
       "Free AI powered Resume Builder.",
@@ -75,21 +76,6 @@ export const projects: Project[] = [
       "/images/resume.png",
     technologies: ["Three.js", "D3.js", "WebGL", "Python", "FastAPI"],
     category: "ai",
-    githubUrl: "#",
-    // liveUrl: "https://portfolio-website-git-main-jeffchisambis-projects.vercel.app/",
-    featured: false,
-  },
-  {
-    id: "5",
-    title: "Smart Home Dashboard",
-    description:
-      "IoT dashboard for monitoring and controlling smart home devices with voice commands.",
-    longDescription:
-      "A comprehensive IoT management platform that integrates various smart home devices, provides real-time monitoring, energy usage analytics, and supports voice control through custom speech recognition.",
-    image:
-      "https://images.pexels.com/photos/4062275/pexels-photo-4062275.jpeg?auto=compress&cs=tinysrgb&w=800",
-    technologies: ["Vue.js", "Arduino", "Raspberry Pi", "MQTT", "InfluxDB"],
-    category: "web",
     githubUrl: "#
     featured: false,
   },
